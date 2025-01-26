@@ -1,4 +1,4 @@
-# RePrompt Agent - Interactive Street View Navigator
+# StreeView Agent - Interactive Street View Navigator
 
 An interactive web application that combines Google Street View navigation with an AI-powered chat interface, allowing users to explore locations through natural language commands.
 
